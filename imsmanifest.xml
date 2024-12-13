@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="00" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="editor.exportDialog.defaults.authorName">
+    <organization identifier="editor.exportDialog.defaults.authorName">
+      <title>B2 - Human Resources - Employee Law and Compliance</title>
+      <item identifier="item_00" identifierref="resource_00">
+        <title>B2 - Human Resources - Employee Law and Compliance</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <adlcp:location>metadata.xml</adlcp:location>
+        </metadata>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <resource identifier="resource_00" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="SCORM_API_wrapper.js"/>
+      <file href="audios/file-4pH5Hb9XNB0r4Mai.wav"/>
+      <file href="audios/file-HCqTqf34evyo2Qut.wav"/>
+      <file href="audios/file-PBMXu-4YiE5HcJCp.wav"/>
+      <file href="audios/file-S4sWcd5vGqTyrU4h.wav"/>
+      <file href="audios/file-TE6t3BqSF-lzVAP8.wav"/>
+      <file href="audios/file-hrFXLX5cTm114dQs.wav"/>
+      <file href="audios/file-lb6osTBW0zZm8Pby.wav"/>
+      <file href="audios/file-ofG1MO6WvTml9nPu.wav"/>
+      <file href="h5p-adaptor.js"/>
+      <file href="images/file-2QniqDW837CUVh1l.png"/>
+      <file href="images/file-6vneM-3iPMgVJsm--hs33nNI4.png"/>
+      <file href="images/file-7xTAjTp3jimaCr-Y.png"/>
+      <file href="images/file-8dW7GZR2uD8zFCcL-kHnsYiXI.png"/>
+      <file href="images/file-9GK_DSgSCPGWOJh4-SBHYPdRO-KC0FnEDn.png"/>
+      <file href="images/file-9GK_DSgSCPGWOJh4-SBHYPdRO.png"/>
+      <file href="images/file-CpbC1Ad1uFOSo1ha.png"/>
+      <file href="images/file-DeOSAppKXV79jegO.png"/>
+      <file href="images/file-MoWbgRJZsHZMIYur.png"/>
+      <file href="images/file-QPtU8_1svhpB0iAf-FvE3ve3b.png"/>
+      <file href="images/file-Qpxbdt1v3TE12ERU-ocyb3LHO-hOPG4xai.png"/>
+      <file href="images/file-Qpxbdt1v3TE12ERU-ocyb3LHO.png"/>
+      <file href="images/file-RKma9bLve91ATh3M.jpg"/>
+      <file href="images/file-UCMnI3d0kVAzlRdd.png"/>
+      <file href="images/file-UO_56p73tMX0pbtz.png"/>
+      <file href="images/file-aAhPSHHI8c_hbFJ4-4TAd5icl-6pCf2PU9-nI3AZmPf-7dZt9aLM-BYLSTLXS-8eiMaH9g-XBxlCrtD-y8Bikd6N.png"/>
+      <file href="images/file-t-HsT5g1PPzMFOMx-TSYivOiM.png"/>
+      <file href="images/file-w-5L_UMFBmEtNKLj-mU2NNLaj.png"/>
+      <file href="index.html"/>
+      <file href="videos/file-uiKWUhHyA9koHvTy.mp4"/>
+    </resource>
+  </resources>
+</manifest>
